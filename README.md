@@ -1,9 +1,6 @@
-### Hi there 👋
+### Howdie 👋
 
 <!--
-**FRiggitsXx/FRiggitsXx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on building a foundation for myself, not only for starting a career expedition but to learn more and become an advanced
   specialist.
